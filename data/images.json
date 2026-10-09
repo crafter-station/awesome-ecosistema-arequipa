@@ -1,0 +1,845 @@
+[
+ {
+  "id": "3f2da2435b4681009e59eba7090ee33d",
+  "nombre": "Universidad La Salle (ULaSalle)",
+  "web": "https://www.ulasalle.edu.pe",
+  "cover_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnitpvbAsyMEkKWgDr0VNDKTJiiVBQ41Bu4LfAaqdlh29YRSRFrxdjWJD27-yIgZPim4aXVta0_9LxJ3Q94iSSwThCYyfyF4nX0SiKO8RHNbEn22-zVf4P6-IKcqGkwVoszdUouB6kWGyBs=w1920-h1080-k-no",
+  "cover_src": "Google Maps (ficha de lugar, vía Apify compass/crawler-google-places): Universidad La Salle, Av. Alfonso Ugarte 517",
+  "logo_url": "https://www.ulasalle.edu.pe/wp-content/uploads/2024/07/cropped-favicon_color-180x180.png",
+  "logo_src": "https://www.ulasalle.edu.pe",
+  "extras": [
+   "https://www.ulasalle.edu.pe/wp-content/uploads/2025/09/image002.png"
+  ],
+  "extras_src": "https://www.ulasalle.edu.pe"
+ },
+ {
+  "id": "3f2da2435b468107b63bfac7dc2d0d83",
+  "nombre": "AWS User Group Arequipa",
+  "web": "https://www.meetup.com/aws-user-group-arequipa/",
+  "cover_url": "https://secure.meetupstatic.com/photos/event/7/3/f/d/600_531629693.jpeg",
+  "cover_src": "https://www.meetup.com/aws-user-group-arequipa/",
+  "logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFwhhuIC3Lgcg/company-logo_200_200/B4EZgbSCKoHIAI-/0/1752804369511/awsarequipa_logo?e=2147483647&v=beta&t=_1FwPSsKxeyfu1y1PyOQADKoKoifeTPDPCIKtqkOocA",
+  "logo_src": "og:image red social / gob.pe",
+  "extras": [
+   "https://secure.meetupstatic.com/photos/event/7/3/f/d/clean_531629693.webp",
+   "https://secure.meetupstatic.com/photos/event/e/5/2/0/highres_535798656.jpeg",
+   "https://secure.meetupstatic.com/photos/event/4/6/7/0/highres_534138032.jpeg"
+  ],
+  "extras_src": "https://www.meetup.com/aws-user-group-arequipa/"
+ },
+ {
+  "id": "3f2da2435b46810ea7a1df22e322da18",
+  "nombre": "CITE Arequipa (artesanía – red CITE MINCETUR)",
+  "web": "https://citearequipa.org/",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.google.com/s2/favicons?domain=citearequipa.org&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://citearequipa.org/"
+ },
+ {
+  "id": "3f2da2435b468111b4dbe14f8371e4f3",
+  "nombre": "Entre Líneas Cultura",
+  "web": "https://entrelineascultura.pe/",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.google.com/s2/favicons?domain=entrelineascultura.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://entrelineascultura.pe/"
+ },
+ {
+  "id": "3f2da2435b4681179d14f678ed46d790",
+  "nombre": "StartUP UTP",
+  "web": "https://empleabilidad.utp.edu.pe/alumnos/startup-utp",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.google.com/s2/favicons?domain=empleabilidad.utp.edu.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://empleabilidad.utp.edu.pe/alumnos/startup-utp"
+ },
+ {
+  "id": "3f2da2435b4681199abbf364278b4104",
+  "nombre": "NOSxOTROS Fundación Territorial Arequipa",
+  "web": "https://nosxotros.org/",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEJg_W_3INz-Q/company-logo_200_200/company-logo_200_200/0/1689197392655?e=2147483647&v=beta&t=iOHRzgPCpuGog6Wu3M0iZG7TQry0CvGtQjVMWG60L3I",
+  "logo_src": "og:image red social / gob.pe",
+  "extras": [],
+  "extras_src": "https://nosxotros.org/"
+ },
+ {
+  "id": "3f2da2435b468119a971e3805aaa6897",
+  "nombre": "Diario Viral",
+  "web": "https://diarioviral.pe/",
+  "cover_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cdPZVJfHM2dDmiknAY6J4g&cb_client=lu.gallery.gps&w=1920&h=1272&yaw=15.807693&pitch=0&thumbfov=100",
+  "cover_src": "Google Maps (ficha de lugar, vía Apify compass/crawler-google-places): Diario Viral, C. Santo Domingo 413",
+  "logo_url": "https://www.google.com/s2/favicons?domain=diarioviral.pe&sz=128",
+  "logo_src": "https://diarioviral.pe/",
+  "extras": [
+   "https://diarioviral.pe/uploads/fb378f2eabc3_foto-v-bts.jpg",
+   "https://diarioviral.pe/uploads/09fc0c329b48_je.png",
+   "https://diarioviral.pe/uploads/708828badf45_incendio_forestal_2.png"
+  ],
+  "extras_src": "https://diarioviral.pe/"
+ },
+ {
+  "id": "3f2da2435b46811c87f5f79ac93460eb",
+  "nombre": "Fab Lab Continental – Arequipa",
+  "web": "https://fablab.ucontinental.edu.pe/fab-lab-arequipa/",
+  "cover_url": "https://fablab.ucontinental.edu.pe/wp-content/uploads/2025/05/fab-lab-summit-img-4.png",
+  "cover_src": "https://fablab.ucontinental.edu.pe/fab-lab-arequipa/",
+  "logo_url": "https://www.google.com/s2/favicons?domain=fablab.ucontinental.edu.pe&sz=128",
+  "logo_src": "https://fablab.ucontinental.edu.pe/fab-lab-arequipa/",
+  "extras": [],
+  "extras_src": "https://fablab.ucontinental.edu.pe/fab-lab-arequipa/"
+ },
+ {
+  "id": "3f2da2435b46811eb84de9575d5fd8d8",
+  "nombre": "Dirección Regional de la Producción – Arequipa",
+  "web": "",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.gob.pe/assets/favicons/apple-icon-57x57-42e0cdf0.png",
+  "logo_src": "og:image red social / gob.pe",
+  "extras": [],
+  "extras_src": "",
+  "captura_web": "img/shots_old/04.png"
+ },
+ {
+  "id": "3f2da2435b46812387e4e5fb4ab97bd3",
+  "nombre": "Dirección de Innovación y Transferencia Tecnológica (UNSA)",
+  "web": "https://vri.unsa.edu.pe",
+  "cover_url": "https://vri.unsa.edu.pe/wp-content/uploads/2025/12/banner-convocatoria2026.jpg",
+  "cover_src": "https://vri.unsa.edu.pe (imagen hero/página)",
+  "logo_url": "https://vri.unsa.edu.pe/wp-content/uploads/2022/04/unnamed.png",
+  "logo_src": "https://vri.unsa.edu.pe",
+  "extras": [
+   "https://vri.unsa.edu.pe/wp-content/uploads/2025/09/MG_0158-878x426-1.jpg",
+   "https://vri.unsa.edu.pe/wp-content/uploads/2025/09/portada-6-scaled.jpg"
+  ],
+  "extras_src": "https://vri.unsa.edu.pe"
+ },
+ {
+  "id": "3f2da2435b468124a5f7ec90ef339bfe",
+  "nombre": "Parque Científico Tecnológico de Arequipa (UNSA)",
+  "web": "https://vri.unsa.edu.pe/parque-cientifico-tecnologico-quienes-somos/",
+  "cover_url": "https://vri.unsa.edu.pe/wp-content/uploads/2022/05/1.jpg",
+  "cover_src": "https://vri.unsa.edu.pe/parque-cientifico-tecnologico-quienes-somos/ (imagen hero/página)",
+  "logo_url": "https://vri.unsa.edu.pe/wp-content/uploads/2022/04/unnamed.png",
+  "logo_src": "https://vri.unsa.edu.pe/parque-cientifico-tecnologico-quienes-somos/",
+  "extras": [
+   "https://vri.unsa.edu.pe/wp-content/uploads/2022/05/2.jpg"
+  ],
+  "extras_src": "https://vri.unsa.edu.pe/parque-cientifico-tecnologico-quienes-somos/"
+ },
+ {
+  "id": "3f2da2435b468127a310dc2545db99aa",
+  "nombre": "CoNexa Coworking – La Recoleta",
+  "web": "https://conexacoworking.com/",
+  "cover_url": "https://conexacoworking.com/assets/img/campus/banner1.png",
+  "cover_src": "https://conexacoworking.com/",
+  "logo_url": "https://www.google.com/s2/favicons?domain=conexacoworking.com&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://conexacoworking.com/"
+ },
+ {
+  "id": "3f2da2435b468127a6bef12b06c599cd",
+  "nombre": "Radio San Martín (97.7 FM)",
+  "web": "https://radiosanmartin.pe/",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.google.com/s2/favicons?domain=radiosanmartin.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://radiosanmartin.pe/"
+ },
+ {
+  "id": "3f2da2435b4681289885fd3876efe260",
+  "nombre": "Diario EP",
+  "web": "https://diarioep.pe/",
+  "cover_url": "https://static.diarioep.pe/noticias/20210208142659/social_diarioep.png",
+  "cover_src": "https://diarioep.pe/",
+  "logo_url": "https://static.diarioep.pe/noticias/20210129122300/cropped-EP-PNG_Mesa-de-trabajo-1-180x180.png",
+  "logo_src": "https://diarioep.pe/",
+  "extras": [
+   "https://static.diarioep.pe/noticias/20261005162300/WEB-5-4-445x250.jpg",
+   "https://static.diarioep.pe/noticias/20261005011520/GGG-37-445x297.jpg",
+   "https://static.diarioep.pe/noticias/20261004215603/784293514_122110622427403847_3886101049474925897_n-445x251.jpg"
+  ],
+  "extras_src": "https://diarioep.pe/"
+ },
+ {
+  "id": "3f2da2435b46812a8837f908f107f0ef",
+  "nombre": "Coworking CCPNA",
+  "web": "",
+  "cover_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T9PbxbHsc2CXW4ezaoURiFnXcPwNvDa6g714PH2cB67kTrrYr5UZOtNXhQumu955f2IZRvFigiKz0jYL0zHGOV_pcCYC8HPOcf07vVskx5t5OkeQMpk4Fx6FikcJR1xevYbBb7JQ=w1920-h1080-k-no",
+  "cover_src": "Google Maps (ficha de lugar, vía Apify compass/crawler-google-places): Centro Cultural Peruano Norteamericano, Melgar 109",
+  "logo_url": "https://www.google.com/s2/favicons?domain=cultural.edu.pe&sz=128",
+  "logo_src": "og:image red social / gob.pe",
+  "extras": [],
+  "extras_src": "",
+  "captura_web": "img/shots_old/07.png"
+ },
+ {
+  "id": "3f2da2435b46812da996e7d796fca208",
+  "nombre": "Parque Tecnológico de Arequipa (GORE – proyecto)",
+  "web": "",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.gob.pe/assets/favicons/apple-icon-57x57-42e0cdf0.png",
+  "logo_src": "og:image red social / gob.pe",
+  "extras": [],
+  "extras_src": ""
+ },
+ {
+  "id": "3f2da2435b46812fa0dde8ca422fc2c5",
+  "nombre": "La Revista de Arequipa",
+  "web": "https://larevistadearequipa.pe/",
+  "cover_url": "https://larevistadearequipa.pe/wp-content/uploads/2021/10/n3-860x573.jpg",
+  "cover_src": "https://larevistadearequipa.pe/",
+  "logo_url": "https://larevistadearequipa.pe/wp-content/uploads/2024/04/cropped-icon-180x180.jpg",
+  "logo_src": "https://larevistadearequipa.pe/",
+  "extras": [
+   "https://larevistadearequipa.pe/wp-content/uploads/2025/07/506263811_1267639645367237_8919527090099429939_n-330x220.jpg",
+   "https://larevistadearequipa.pe/wp-content/uploads/2025/06/509364100_1200775288761606_1172679595830307244_n-330x220.jpg",
+   "https://larevistadearequipa.pe/wp-content/uploads/2024/11/santa-catalina-home-330x220.jpg"
+  ],
+  "extras_src": "https://larevistadearequipa.pe/"
+ },
+ {
+  "id": "3f2da2435b468130b7b9eaceebe76582",
+  "nombre": "Cámara de Comercio e Industria de Arequipa (CCIA)",
+  "web": "https://www.camara-arequipa.org.pe/",
+  "cover_url": "https://www.camara-arequipa.org.pe/wp-content/uploads/elementor/thumbs/bannerHome04-ravtut8q02tqo6j8jcnw77cof3h4i8x505gopk8rkw.png",
+  "cover_src": "https://www.camara-arequipa.org.pe/",
+  "logo_url": "https://www.google.com/s2/favicons?domain=www.camara-arequipa.org.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://www.camara-arequipa.org.pe/"
+ },
+ {
+  "id": "3f2da2435b468135a618c91bf9793304",
+  "nombre": "CITEccal Arequipa – Cuero y Calzado (ITP)",
+  "web": "https://www.gob.pe/institucion/citeccal-arequipa",
+  "cover_url": "https://cdn.www.gob.pe/uploads/document/file/5264991/CITEccal%20%281%29.jpeg",
+  "cover_src": "https://www.gob.pe/institucion/citeccal-arequipa/noticias",
+  "logo_url": "https://www.google.com/s2/favicons?domain=www.gob.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://www.gob.pe/institucion/citeccal-arequipa",
+  "captura_web": "img/shots/10.png"
+ },
+ {
+  "id": "3f2da2435b468135bb7ef34bcb507b76",
+  "nombre": "El Búho",
+  "web": "https://elbuho.pe/",
+  "cover_url": "https://elbuho.pe/wp-content/uploads/2018/06/quienes-somos.jpg",
+  "cover_src": "https://elbuho.pe/quienes-somos/",
+  "logo_url": "https://elbuho.pe/wp-content/uploads/2023/02/cropped-logo-buho-1-180x180.jpg",
+  "logo_src": "https://elbuho.pe/",
+  "extras": [
+   "https://elbuho.pe/wp-content/uploads/2026/10/diputados-facultades-legislativas-1-6ac5c53ff3d6c-624x380.webp",
+   "https://elbuho.pe/wp-content/uploads/2026/10/violencia-escolar-6ac519e53c0a8.webp",
+   "https://elbuho.pe/wp-content/uploads/2026/10/anemia-y-salud-mental-296x164.jpg"
+  ],
+  "extras_src": "https://elbuho.pe/"
+ },
+ {
+  "id": "3f2da2435b468136affaf0f6f24b931a",
+  "nombre": "OPTI – Oficina de Proyectos y Transferencia de la Investigación (UCSP)",
+  "web": "https://ucsp.edu.pe/investigacion/opti/",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.google.com/s2/favicons?domain=ucsp.edu.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://ucsp.edu.pe/investigacion/opti/"
+ },
+ {
+  "id": "3f2da2435b468138a1a7dae177f97cfe",
+  "nombre": "CITE Agroindustrial Majes (ITP)",
+  "web": "https://www.gob.pe/citeagroindustrial_majes",
+  "cover_url": "https://cdn.www.gob.pe/uploads/document/file/4583460/standard_standard_1.jpeg",
+  "cover_src": "https://www.gob.pe/citeagroindustrial_majes",
+  "logo_url": "https://www.gob.pe/assets/favicons/apple-icon-57x57-42e0cdf0.png",
+  "logo_src": "https://www.gob.pe/citeagroindustrial_majes",
+  "extras": [
+   "https://cdn.www.gob.pe/uploads/document/file/4919712/standard_000113327M.jpg",
+   "https://cdn.www.gob.pe/uploads/document/file/4583460/standard_standard_1.jpeg",
+   "https://cdn.www.gob.pe/uploads/document/file/4583070/standard_1.jpeg"
+  ],
+  "extras_src": "https://www.gob.pe/citeagroindustrial_majes",
+  "captura_web": "img/shots_old/12.png"
+ },
+ {
+  "id": "3f2da2435b4681428c08e03aa00cbfce",
+  "nombre": "Coworkinghouse Arequipa (CoworkInHouse)",
+  "web": "https://coworkinghouse.pe",
+  "cover_url": "https://coworkinghouse.pe/wp-content/uploads/2025/03/2-scaled.jpeg",
+  "cover_src": "https://coworkinghouse.pe",
+  "logo_url": "https://www.google.com/s2/favicons?domain=coworkinghouse.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://coworkinghouse.pe"
+ },
+ {
+  "id": "3f2da2435b468145b8fec37e60f91047",
+  "nombre": "Women Techmakers Arequipa",
+  "web": "",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQF74pWbiIIbIQ/company-logo_200_200/company-logo_200_200/0/1681707943370?e=2147483647&v=beta&t=70ab1O9ZBys2Hr9lf_YyI9zm_Bt17Q5FuM8UDbAnqsM",
+  "logo_src": "og:image red social / gob.pe",
+  "extras": [],
+  "extras_src": "https://linkedin.com/company/womentechmakers-arequipa"
+ },
+ {
+  "id": "3f2da2435b46814c981bc523ad716bac",
+  "nombre": "Radio Yaraví",
+  "web": "https://radioyaravi.org.pe/",
+  "cover_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvqJtWmBLYqnZYbfYMvNLSdgNPbm8ls08LaPMgH95bVN1SIsLZoCNZe6OCo9brUI1MaHVt5_TP1O5SO56SWiuTsg3RR9R2gHwOjbGRAph9j_7UIb5OnH07gdkQUYgi921cP_F3=w1920-h1080-k-no",
+  "cover_src": "Google Maps (ficha de lugar, vía Apify compass/crawler-google-places): Radio Yaraví, Ca. Miguel de Cervantes Saavedra 103",
+  "logo_url": "https://www.google.com/s2/favicons?domain=radioyaravi.org.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://radioyaravi.org.pe/"
+ },
+ {
+  "id": "3f2da2435b468153a60bcfc5cbf92c2d",
+  "nombre": "Municipalidad Distrital de José Luis Bustamante y Rivero – capacitación empresarial",
+  "web": "https://munibustamante.gob.pe",
+  "cover_url": "https://www.munibustamante.gob.pe/public/images/portal.png",
+  "cover_src": "https://munibustamante.gob.pe (imagen hero/página)",
+  "logo_url": "https://munibustamante.gob.pe/apple-touch-icon.png",
+  "logo_src": "https://munibustamante.gob.pe",
+  "extras": [
+   "https://munibustamante.gob.pe/fotos/escudo-blanco.png",
+   "https://munibustamante.gob.pe/fotos/1715354895.jpg"
+  ],
+  "extras_src": "https://munibustamante.gob.pe"
+ },
+ {
+  "id": "3f2da2435b46815aa249c44faa6c42fc",
+  "nombre": "PyLadies Arequipa",
+  "web": "https://pyladiesaqp.blogspot.com/",
+  "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoXkE2fCu04K9xEh-E4AHbCLGQWAAlhd9q23w8hvs9GZUHSE9EHnmCdRQYBKT1nNBge3u1g_9VrCqjzjp70QIK_BlkUtx404jD0dS_AQVKPYRWzT7Q8MYgFWTFAPmNAcyFre8jb7FUSBm0/s1600/pyladies+letras.png",
+  "cover_src": "https://pyladiesaqp.blogspot.com/ (imagen hero/página)",
+  "logo_url": "https://pyladiesaqp.blogspot.com/favicon.ico",
+  "logo_src": "https://pyladiesaqp.blogspot.com/",
+  "extras": [
+   "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSm9Akj9QMza8vQB9uioIfjW2lfX25DSmX_U8fB75lB323LeszF4LxB4Q6ew9u365PA6Wh371VzZ0PQvUwOUAA3oLs_J5N70Y8k6ynBUK_bQbnesMus99-P2pwgapY49gEdFcgEwwWoKfi/s1600/advert.png",
+   "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_KAIjhK5xFjBrw8l6bUo7gxWa7l7t3D3BeUGgBj9ShTlGHAx1TAyjenxW_ju8Vmmat8UAwoXcgTWO1Or61pDLj7Ogq63AVKQwypWyqjSTBZRsqpXeIEa-jdWgaugCpc1IGZXVKi_aueRq/s1600/pylady+aqp.png"
+  ],
+  "extras_src": "https://pyladiesaqp.blogspot.com/"
+ },
+ {
+  "id": "3f2da2435b46815ba95ac345956b7946",
+  "nombre": "Universidad Tecnológica del Perú (UTP) – Arequipa",
+  "web": "https://www.utp.edu.pe",
+  "cover_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RtZZ2L7dLF8L5EVHRhOxYwJLkwLLycoWZz7aROv00gv_toLDpeuvmVEizBbNS0HE9IIb295luV7wDutSi9Mi9uJN2C93W_LWEIlib89j6B7ZQkJwg8FuyxuZbJo08Stn9rneCP=w1920-h1080-k-no",
+  "cover_src": "Google Maps (ficha de lugar, vía Apify compass/crawler-google-places): UTP, Tacna y Arica 160",
+  "logo_url": "https://www.google.com/s2/favicons?domain=www.utp.edu.pe&sz=128",
+  "logo_src": "https://www.utp.edu.pe",
+  "extras": [
+   "https://www.utp.edu.pe/sites/default/files/imagenes/horario.webp"
+  ],
+  "extras_src": "https://www.utp.edu.pe"
+ },
+ {
+  "id": "3f2da2435b46815e89e7c82fbbbeea57",
+  "nombre": "DER Arequipa 3.0 / Innova Arequipa (ProInnóvate)",
+  "web": "https://www.gob.pe/institucion/proinnovate/campa%C3%B1as/140684-concursos-regionales-2026",
+  "cover_url": "https://www.gob.pe/assets/escudo-rojo-200-f4bf73f7.png",
+  "cover_src": "https://www.gob.pe/institucion/proinnovate/campa%C3%B1as/140684-concursos-regionales-2026",
+  "logo_url": "https://www.gob.pe/assets/favicons/apple-icon-57x57-42e0cdf0.png",
+  "logo_src": "https://www.gob.pe/institucion/proinnovate/campa%C3%B1as/140684-concursos-regionales-2026",
+  "extras": [
+   "https://cdn.www.gob.pe/uploads/campaign/photo/000/140/684/Campa%C3%B1as_regionales_WEB.jpg"
+  ],
+  "extras_src": "https://www.gob.pe/institucion/proinnovate/campa%C3%B1as/140684-concursos-regionales-2026",
+  "captura_web": "img/shots_old/16.png"
+ },
+ {
+  "id": "3f2da2435b468161a2becaa6848d9385",
+  "nombre": "Museo Coworking & Casa Cultural Samuel Lozada Tamayo",
+  "web": "",
+  "cover_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RHR7iF7DzkaaIWkA427erKNmT8wiZezPyJZpmdufEAIlnrgCDDDaY9_UH4_EXYNiFWlabfxjJ3kHOscsE_opXKzxW_OSsjttKtEuctqQ2KX7oxGYXdeF5XsyCAfijkX79MIf8_k6cwbAIQ=w1920-h1080-k-no",
+  "cover_src": "Google Maps (ficha de lugar, vía Apify compass/crawler-google-places): Casa Cultural SLT, C. Jerusalén 201D",
+  "logo_url": "fbcdn (WhatsApp catálogo og:image, expira)",
+  "logo_src": "og:image red social / gob.pe",
+  "extras": [],
+  "extras_src": ""
+ },
+ {
+  "id": "3f2da2435b4681639c5eec7d8679eb0a",
+  "nombre": "Coworking Mistiluxo",
+  "web": "",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "",
+  "logo_src": "",
+  "extras": [],
+  "extras_src": ""
+ },
+ {
+  "id": "3f2da2435b468167a729c4f024d01bd5",
+  "nombre": "GDG Arequipa",
+  "web": "https://gdg.community.dev/gdg-arequipa/",
+  "cover_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/chapter_banners/Logo%20GDG%20Arequipa.png",
+  "cover_src": "https://gdg.community.dev/gdg-arequipa/",
+  "logo_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_180,q_auto:good,w_180/v1/gcs/platform-data-goog/contentbuilder/GDG_Bevy_Favicon_y29LtMy.png",
+  "logo_src": "https://gdg.community.dev/gdg-arequipa/",
+  "extras": [
+   "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/events/blob_4itjxJx",
+   "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/sponsors/blob_cKEZAyV"
+  ],
+  "extras_src": "https://gdg.community.dev/gdg-arequipa/"
+ },
+ {
+  "id": "3f2da2435b46816abd10ebcac7c9120d",
+  "nombre": "Encuentro",
+  "web": "https://encuentro.pe/",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.google.com/s2/favicons?domain=encuentro.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://encuentro.pe/"
+ },
+ {
+  "id": "3f2da2435b46816c8662f3f21715e8a8",
+  "nombre": "ADEPIA",
+  "web": "https://www.adepia.com.pe/",
+  "cover_url": "https://www.adepia.com.pe/wp-content/uploads/2020/06/Adepia_ParaFondoOscuro.png",
+  "cover_src": "https://www.adepia.com.pe/ (imagen hero/página)",
+  "logo_url": "https://www.adepia.com.pe/wp-content/uploads/2020/06/cropped-Adepia_ParaFondoTransparente_512x512-180x180.png",
+  "logo_src": "https://www.adepia.com.pe/",
+  "extras": [
+   "https://www.adepia.com.pe/wp-content/uploads/2020/05/IMG_2711-2-1-768x512.jpg",
+   "https://www.adepia.com.pe/wp-content/uploads/2026/08/POST_PRESENCIAL-Y-VIRTUAL-1024x1024.png"
+  ],
+  "extras_src": "https://www.adepia.com.pe/"
+ },
+ {
+  "id": "3f2da2435b46816cbc32efdb0d5401ec",
+  "nombre": "CoNexa Coworking – C. Perú",
+  "web": "https://conexacoworking.com/",
+  "cover_url": "https://conexacoworking.com/assets/img/campus/banner2.png",
+  "cover_src": "https://conexacoworking.com/",
+  "logo_url": "https://www.google.com/s2/favicons?domain=conexacoworking.com&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://conexacoworking.com/"
+ },
+ {
+  "id": "3f2da2435b46817286aecd23814709ae",
+  "nombre": "Diario Correo – edición Arequipa",
+  "web": "https://diariocorreo.pe/edicion/arequipa/",
+  "cover_url": "https://diariocorreo.pe/resizer/v2/VUEGKS5WAZBWPL4MRD4XQDK4PE.jpg?auth=48d772a2e65cf20fd4360da39876390718411b1cb0cbc1ccf748ef229cd7a51f&width=648&height=374&quality=75&smart=true",
+  "cover_src": "https://diariocorreo.pe/edicion/arequipa/ (imagen hero/página)",
+  "logo_url": "https://www.google.com/s2/favicons?domain=diariocorreo.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [
+   "https://diariocorreo.pe/resizer/v2/OSODXFU4T5FXZGGROVNBYRJEFE.jpg?auth=ec46b6700f299844ba34df3d9da0fb937a95fe3b787c3689d084fab7f5e8b1f5&width=314&height=374&quality=75&smart=true",
+   "https://diariocorreo.pe/resizer/v2/RNDVMVM2QVEVXG2KOAYZLHHWNA.jpg?auth=0c9d6d4197234c4e0d221884499bd74e1eb00758a86bb7b336d1771b4bae584a&width=314&height=374&quality=75&smart=true"
+  ],
+  "extras_src": "https://diariocorreo.pe/edicion/arequipa/"
+ },
+ {
+  "id": "3f2da2435b468175b90dedcf503d9f5a",
+  "nombre": "INNICIA – Incubadora de Empresas UCSM",
+  "web": "https://investigacion.ucsm.edu.pe/innicia/",
+  "cover_url": "https://investigacion.ucsm.edu.pe/innicia/wp-content/uploads/2019/08/858196_534706066570010_272650960_o.jpg",
+  "cover_src": "https://investigacion.ucsm.edu.pe/innicia/ (imagen hero/página)",
+  "logo_url": "https://investigacion.ucsm.edu.pe/innicia/wp-content/uploads/2019/08/inncia-e1566590762197.jpg",
+  "logo_src": "https://investigacion.ucsm.edu.pe/innicia/",
+  "extras": [
+   "https://investigacion.ucsm.edu.pe/innicia/wp-content/uploads/2019/09/IMG_8904.jpg",
+   "http://investigacion.ucsm.edu.pe/innicia/wp-content/uploads/2020/12/web-4864046_1920.jpg"
+  ],
+  "extras_src": "https://investigacion.ucsm.edu.pe/innicia/"
+ },
+ {
+  "id": "3f2da2435b46817f89d7ccb55fcab582",
+  "nombre": "Arequipa Misti Press",
+  "web": "https://arequipamistipress.com/",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.google.com/s2/favicons?domain=arequipamistipress.com&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://arequipamistipress.com/"
+ },
+ {
+  "id": "3f2da2435b468181ab94cf945f816ee6",
+  "nombre": "Incubadora de Negocios Kaman – UCSP",
+  "web": "https://ucsp.edu.pe/kaman/presentacion/",
+  "cover_url": "https://ucsp.edu.pe/wp-content/uploads/2025/12/equipo-kaman.jpg",
+  "cover_src": "https://ucsp.edu.pe/kaman/presentacion/",
+  "logo_url": "https://www.google.com/s2/favicons?domain=ucsp.edu.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://ucsp.edu.pe/kaman/presentacion/"
+ },
+ {
+  "id": "3f2da2435b4681869a96e8ba405d0e88",
+  "nombre": "Diario El Pueblo",
+  "web": "https://diarioelpueblo.com.pe/",
+  "cover_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LNnD9lJw4q2X4hS07BVx4A&cb_client=search.gws-prod.grass&w=1920&h=1129&yaw=18.099396&pitch=0&thumbfov=100",
+  "cover_src": "Google Maps (ficha de lugar, vía Apify compass/crawler-google-places): Diario El Pueblo, Arequipa",
+  "logo_url": "https://diarioelpueblo.com.pe/wp-content/uploads/2023/01/logo_sello.jpg",
+  "logo_src": "https://diarioelpueblo.com.pe/",
+  "extras": [
+   "https://diarioelpueblo.com.pe/wp-content/uploads/2026/10/image-29-200x150.png",
+   "https://diarioelpueblo.com.pe/wp-content/uploads/2026/10/imagen-72-200x150.png",
+   "https://diarioelpueblo.com.pe/wp-content/uploads/2026/10/imagen-81-200x150.png"
+  ],
+  "extras_src": "https://diarioelpueblo.com.pe/"
+ },
+ {
+  "id": "3f2da2435b468187b36ac45c1c4ed080",
+  "nombre": "ACM Student Chapter UNSA",
+  "web": "",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQE4UVD6G2GDUg/company-logo_200_200/company-logo_200_200/0/1711666218823?e=2147483647&v=beta&t=6vY7S80fsiirAhEuROMbdH7s6F2akUhi0BvCUWoKn4U",
+  "logo_src": "og:image red social / gob.pe",
+  "extras": [],
+  "extras_src": "https://linkedin.com/company/acm-student-chapter-universidad-nacional-de-san-agust%C3%ADn-de-arequipa"
+ },
+ {
+  "id": "3f2da2435b46818faaffdcc6c0a45388",
+  "nombre": "Universidad Nacional de San Agustín de Arequipa (UNSA)",
+  "web": "https://www.unsa.edu.pe",
+  "cover_url": "https://www.unsa.edu.pe/wp-content/uploads/2026/10/385A7715-1-878x426.jpg",
+  "cover_src": "https://www.unsa.edu.pe (imagen hero/página)",
+  "logo_url": "https://www.unsa.edu.pe/wp-content/uploads/2017/12/cropped-LogoUNSAFav-180x180.png",
+  "logo_src": "https://www.unsa.edu.pe",
+  "extras": [
+   "https://www.unsa.edu.pe/wp-content/uploads/2026/10/385A7550.JPG-878x426.jpeg",
+   "https://www.unsa.edu.pe/wp-content/uploads/2026/10/IMG_7582-878x426.jpg"
+  ],
+  "extras_src": "https://www.unsa.edu.pe"
+ },
+ {
+  "id": "3f2da2435b46819081d7e4c76103fa8d",
+  "nombre": "Bitcoin Arequipa",
+  "web": "",
+  "cover_url": "https://cdn1.telesco.pe/file/r_4LvnObBFXHGE5uyO4h9JZB1hh2UaOpW2oEdRCX8cUYj0bfdyQN8rbYRWuVZW5qFNVDEw12MMSLCiB7ZNdbgG1Kj__KeKsaEEQGPAFTdtLgAbPCKGMg-7FrvrA2LDdafHhGSIdmZi-W7pYdXtWJt3qEm4JEUE7rEK7gp3uEWdu5wc5U4JxchverVewZh0APZ6BnL8yWyKHRg2HuYc89edc-Zwf5aJgmTv5kQ_RL1VIecGaPS7f_4FXUUcYQMSbaaQs2gz2Y47a9YGBPTF-6ZKWss3LrwPScKYxG4VPA5iy55cVtOLvPIjwN6jNqluI6MSCERYD2vxERE4M4i_xEeg.jpg",
+  "cover_src": "https://t.me/btcarequipa",
+  "logo_url": "https://cdn1.telesco.pe/file/r_4LvnObBFXHGE5uyO4h9JZB1hh2UaOpW2oEdRCX8cUYj0bfdyQN8rbYRWuVZW5qFNVDEw12MMSLCiB7ZNdbgG1Kj__KeKsaEEQGPAFTdtLgAbPCKGMg-7FrvrA2LDdafHhGSIdmZi-W7pYdXtWJt3qEm4JEUE7rEK7gp3uEWdu5wc5U4JxchverVewZh0APZ6BnL8yWyKHRg2HuYc89edc-Zwf5aJgmTv5kQ_RL1VIecGaPS7f_4FXUUcYQMSbaaQs2gz2Y47a9YGBPTF-6ZKWss3LrwPScKYxG4VPA5iy55cVtOLvPIjwN6jNqluI6MSCERYD2vxERE4M4i_xEeg.jpg",
+  "logo_src": "https://t.me/btcarequipa",
+  "extras": [],
+  "extras_src": "https://t.me/btcarequipa"
+ },
+ {
+  "id": "3f2da2435b4681928207e9ce42587be1",
+  "nombre": "Hult Prize at UNSA",
+  "web": "",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://media.licdn.com/dms/image/v2/C560BAQF4AnZIlq3DcQ/company-logo_200_200/company-logo_200_200/0/1631148152813/hult_prize_at_unsa_logo?e=2147483647&v=beta&t=VqCltB9Hy2e-L9EiP0bfejwmXGheBnQlVSe7RbbQly8",
+  "logo_src": "og:image red social / gob.pe",
+  "extras": [],
+  "extras_src": "https://linkedin.com/company/hult-prize-at-unsa"
+ },
+ {
+  "id": "3f2da2435b468193aacaf73ec0d592a2",
+  "nombre": "Rama Estudiantil IEEE UNSA",
+  "web": "https://ieee-ynoacamino.vercel.app/",
+  "cover_url": "https://res.cloudinary.com/dazt6g3o1/image/upload/v1716953760/pnmoa0bfgucs69lmt5rq.webp",
+  "cover_src": "https://ieee-ynoacamino.vercel.app/ (imagen hero/página)",
+  "logo_url": "https://ieee-ynoacamino.vercel.app/favicon.ico",
+  "logo_src": "https://ieee-ynoacamino.vercel.app/",
+  "extras": [
+   "https://res.cloudinary.com/dazt6g3o1/image/upload/v1716953801/jvunl5jqtwthwsyf0gzd.webp",
+   "https://res.cloudinary.com/dazt6g3o1/image/upload/v1716953873/yay6ppum6lqqwrgn57kr.webp"
+  ],
+  "extras_src": "https://ieee-ynoacamino.vercel.app/"
+ },
+ {
+  "id": "3f2da2435b4681979358fa5200f36771",
+  "nombre": "Endeavor Perú",
+  "web": "https://endeavor.org.pe/",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.google.com/s2/favicons?domain=endeavor.org.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://endeavor.org.pe/"
+ },
+ {
+  "id": "3f2da2435b468199a605d220180adbf1",
+  "nombre": "Startup Grind Arequipa",
+  "web": "https://www.startupgrind.com/arequipa/",
+  "cover_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-startupgrind/chapter_banners/SGx_Arequipa_Logo_Square_White_rJXyLVH.png",
+  "cover_src": "https://www.startupgrind.com/arequipa/",
+  "logo_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_180,q_auto:good,w_180/v1/gcs/platform-data-startupgrind/contentbuilder/sg-favicon_UGZjDJy.png",
+  "logo_src": "https://www.startupgrind.com/arequipa/",
+  "extras": [
+   "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-startupgrind/events/blob_W4i8m5M",
+   "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-startupgrind/events/blob_he96LEU"
+  ],
+  "extras_src": "https://www.startupgrind.com/arequipa/"
+ },
+ {
+  "id": "3f2da2435b46819db1f4dd0d4d243f84",
+  "nombre": "Diario Los Andes",
+  "web": "https://losandes.com.pe/",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.google.com/s2/favicons?domain=losandes.com.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://losandes.com.pe/"
+ },
+ {
+  "id": "3f2da2435b46819f883df2d804cc5f5e",
+  "nombre": "Universidad Católica San Pablo (UCSP)",
+  "web": "https://ucsp.edu.pe",
+  "cover_url": "https://ucsp.edu.pe/wp-content/uploads/2024/03/bg-header-home-rescaled.jpg",
+  "cover_src": "https://ucsp.edu.pe",
+  "logo_url": "https://www.google.com/s2/favicons?domain=ucsp.edu.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://ucsp.edu.pe"
+ },
+ {
+  "id": "3f2da2435b4681a0822bc53fc0d6c855",
+  "nombre": "JAKU Emprende UNSA",
+  "web": "https://www.unsa.edu.pe/jaku/",
+  "cover_url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPm3aZCCvf1glRW9AUOUNqFlZxbPpXhCGldgQD2dByTnBlDbjNpU11kFI18aqHziOTivvZSC-OYgczleiZ-RH8yvGGKJ5P9EoU0ViAMnQ8Wz4GIb9n5pYdGebKitU2Midu-E2_S=w1920-h1080-k-no",
+  "cover_src": "Google Maps (ficha de lugar, vía Apify compass/crawler-google-places): JAKU EMPRENDE UNSA",
+  "logo_url": "https://www.unsa.edu.pe/jaku/wp-content/uploads/sites/5/2018/08/jaku-logo.png",
+  "logo_src": "https://www.unsa.edu.pe/jaku/",
+  "extras": [],
+  "extras_src": "https://www.unsa.edu.pe/jaku/",
+  "captura_web": "img/shots_old/29.png"
+ },
+ {
+  "id": "3f2da2435b4681a0bd3be3ab9a63cb9e",
+  "nombre": "Centro Digital Continental – Arequipa",
+  "web": "https://centrodigitalcontinental.pe/",
+  "cover_url": "https://centrodigitalcontinental.pe/assets/images/slide-2/slide-2.png?v=4",
+  "cover_src": "https://centrodigitalcontinental.pe/",
+  "logo_url": "",
+  "logo_src": "",
+  "extras": [],
+  "extras_src": "https://centrodigitalcontinental.pe/"
+ },
+ {
+  "id": "3f2da2435b4681a5909dd9fac334164c",
+  "nombre": "Tecsup – Sede Arequipa",
+  "web": "https://www.tecsup.edu.pe/sede/sede-arequipa/",
+  "cover_url": "https://www.tecsup.edu.pe/wp-content/uploads/2024/07/SEDE-AREQUIPA.jpg",
+  "cover_src": "https://www.tecsup.edu.pe/sede/sede-arequipa/ (imagen hero/página)",
+  "logo_url": "https://www.tecsup.edu.pe/wp-content/uploads/2024/08/android-chrome-512x512-1.png",
+  "logo_src": "https://www.tecsup.edu.pe/sede/sede-arequipa/",
+  "extras": [],
+  "extras_src": "https://www.tecsup.edu.pe/sede/sede-arequipa/"
+ },
+ {
+  "id": "3f2da2435b4681a6b906ff7d7dca6897",
+  "nombre": "Universidad Continental – Arequipa",
+  "web": "https://ucontinental.edu.pe",
+  "cover_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8d8K-zAKT-SJ4jMoeW0a1aJp1GaK2gDMBgvQ1l2DuIq7VJm-0MYJgBWU5V5T2bF7m53VduTz11p6ayHL8VKqdjzTWXbsBqKChVv-aatEzq4b60stXjD2VpigeekPjP7Ito8au=w1920-h1080-k-no",
+  "cover_src": "Google Maps (ficha de lugar, vía Apify compass/crawler-google-places): Universidad Continental Arequipa, Av. Los Incas",
+  "logo_url": "https://ucontinental.edu.pe/images/img/apple-touch-icon.png",
+  "logo_src": "https://ucontinental.edu.pe",
+  "extras": [
+   "https://ucontinental.edu.pe/site/wp-content/themes/salient-child/img/home-razones.webp",
+   "https://ucontinental.edu.pe/site/wp-content/themes/salient-child/img/razon-carreras.webp"
+  ],
+  "extras_src": "https://ucontinental.edu.pe"
+ },
+ {
+  "id": "3f2da2435b4681b7a587da3b3e14745c",
+  "nombre": "Universidad Católica de Santa María (UCSM)",
+  "web": "https://www.ucsm.edu.pe",
+  "cover_url": "https://ucsm.edu.pe/wp-content/uploads/2024/08/Foto-panoramica-UCSM_1-1.jpg",
+  "cover_src": "https://www.ucsm.edu.pe",
+  "logo_url": "https://ucsm.edu.pe/wp-content/uploads/2026/03/cropped-ucsm-favicon-180x180.png",
+  "logo_src": "https://www.ucsm.edu.pe",
+  "extras": [
+   "https://ucsm.edu.pe/wp-content/uploads/slider/cache/88c365761e80c6a2e35030b856f357ac/virtualweb-scaled.jpg",
+   "https://ucsm.edu.pe/wp-content/uploads/slider/cache/fca0e00e1b748067cf2a5831af294b13/BANNER-WEB-CONCILIACION-scaled.png",
+   "https://ucsm.edu.pe/wp-content/uploads/slider/cache/4f8180a62c7462bea2a1c893cfa9bac7/CABALLO-DE-PASO-WEB-scaled.jpg"
+  ],
+  "extras_src": "https://www.ucsm.edu.pe"
+ },
+ {
+  "id": "3f2da2435b4681c48b3dcb4ac3eb1885",
+  "nombre": "Municipalidad Provincial de Arequipa",
+  "web": "https://www.muniarequipa.gob.pe",
+  "cover_url": "https://www.muniarequipa.gob.pe/wp-content/uploads/2026/05/admin-ajax.fw2_-300x134.png",
+  "cover_src": "https://www.muniarequipa.gob.pe (imagen hero/página)",
+  "logo_url": "https://www.muniarequipa.gob.pe/wp-content/uploads/vinculosinteres/logo-agencia-del-empleo_Mesa-de-trabajo-1-264x300-1.png",
+  "logo_src": "https://www.muniarequipa.gob.pe",
+  "extras": [
+   "https://www.muniarequipa.gob.pe/wp-content/uploads/2026/08/portada-web-arequipa-01-01-01-scaled.jpeg"
+  ],
+  "extras_src": "https://www.muniarequipa.gob.pe"
+ },
+ {
+  "id": "3f2da2435b4681c8a804f578e3116591",
+  "nombre": "Oficina de Innovación y Desarrollo (UCSM)",
+  "web": "https://investigacion.ucsm.edu.pe/innicia/nosotros/",
+  "cover_url": "",
+  "cover_src": "https://investigacion.ucsm.edu.pe/innicia/nosotros/ (imagen hero/página)",
+  "logo_url": "https://investigacion.ucsm.edu.pe/innicia/wp-content/uploads/2019/08/inncia-e1566590762197.jpg",
+  "logo_src": "https://investigacion.ucsm.edu.pe/innicia/nosotros/",
+  "extras": [],
+  "extras_src": "https://investigacion.ucsm.edu.pe/innicia/nosotros/"
+ },
+ {
+  "id": "3f2da2435b4681cd851ff43037b599af",
+  "nombre": "Fab Lab Código",
+  "web": "https://fablab.pe/",
+  "cover_url": "https://www.fablabs.io/media/W1siZiIsIjIwMjMvMTIvMTUvMDAvNDUvMzUvYmZiOGEzZDMtNWNiZi00YmQ3LTg1YTQtNGU5ODY3YzQ4YjE3L0Zyb250YWwuanBlZyJdLFsicCIsInRodW1iIiwiODAweCJdXQ/Frontal.jpeg?sha=1dd9ed6ee2da4901",
+  "cover_src": "https://www.fablabs.io/labs/fablabcodigo",
+  "logo_url": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_180,h_180/https://fablab.pe/wp-content/uploads/2024/03/0_Logo-Fablab-Favicon.png",
+  "logo_src": "https://fablab.pe/",
+  "extras": [],
+  "extras_src": "https://fablab.pe/"
+ },
+ {
+  "id": "3f2da2435b4681cd87aae829790c3cff",
+  "nombre": "CITE Textil Camélidos Arequipa (ITP)",
+  "web": "https://www.gob.pe/citetextilcamelidos-arequipa",
+  "cover_url": "https://www.gob.pe/assets/escudo-rojo-200-f4bf73f7.png",
+  "cover_src": "https://www.gob.pe/citetextilcamelidos-arequipa",
+  "logo_url": "https://www.gob.pe/assets/favicons/apple-icon-57x57-42e0cdf0.png",
+  "logo_src": "https://www.gob.pe/citetextilcamelidos-arequipa",
+  "extras": [
+   "https://cdn.www.gob.pe/uploads/campaign/photo/000/140/148/campaign_CUMBREPORTADA_WEB_ITP.jpg",
+   "https://cdn.www.gob.pe/uploads/campaign/photo/000/120/639/campaign_FLYER_SST-19.png",
+   "https://cdn.www.gob.pe/uploads/campaign/photo/000/112/124/campaign_Charla_calidad-01-01.png"
+  ],
+  "extras_src": "https://www.gob.pe/citetextilcamelidos-arequipa",
+  "captura_web": "img/shots/32.png"
+ },
+ {
+  "id": "3f2da2435b4681cf8e29e1d7fede90fa",
+  "nombre": "Espacio Coworking Arequipa",
+  "web": "https://espacioaqp.com/",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://espacio-api.areccora-digital.workers.dev/files/uploads/wp/2025/11/cropped-cropped-Espacio-Logo-32x32.png",
+  "logo_src": "https://espacioaqp.com/",
+  "extras": [],
+  "extras_src": "https://espacioaqp.com/"
+ },
+ {
+  "id": "3f2da2435b4681d0a1c5ed0b419356d0",
+  "nombre": "Wichay Continental",
+  "web": "https://wichay.pe/incubadora",
+  "cover_url": "https://storage.googleapis.com/gpt-engineer-file-uploads/ub08ZptFUxa2m0UreaQCZE4tuW22/social-images/social-1779157295287-_Q1A0040_1.webp",
+  "cover_src": "https://wichay.pe/incubadora",
+  "logo_url": "https://wichay.pe/assets/wichay-logo-white-CFdlLI2W.png",
+  "logo_src": "https://wichay.pe/incubadora",
+  "extras": [
+   "https://wichay.pe/assets/ecosistema-startup-peruano-C8o4Huo7.png",
+   "https://wichay.pe/assets/aws-startup-programs-Bm3bOYZn.png"
+  ],
+  "extras_src": "https://wichay.pe/incubadora"
+ },
+ {
+  "id": "3f2da2435b4681d0b639e0323cb32aa6",
+  "nombre": "Coworking Arequipa Works",
+  "web": "",
+  "cover_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKuUccjnfqXffj83QMUhsEqkDbCWYmf_yd4EDtzPAy6Lvea4vLk4owrFdWhNW_PioosHYpS-4YmNAB3h0nNu1ySDnaZ_vEkc43qdKi2GkzSJvrsLAdI3ExuGnwRj_4IzlALsJ_iSrDzgts=w1920-h1080-k-no",
+  "cover_src": "Google Maps: ficha \"Coworking Arequipa Works\", Yanahuara (website = facebook.com/ArequipaWorks), vía Apify compass/crawler-google-places",
+  "logo_url": "fbcdn (Facebook ArequipaWorks og:image, expira)",
+  "logo_src": "og:image red social / gob.pe",
+  "extras": [],
+  "extras_src": "https://www.facebook.com/ArequipaWorks"
+ },
+ {
+  "id": "3f2da2435b4681d8ac9debe43a24e716",
+  "nombre": "Incubadora Parmenia – Universidad La Salle",
+  "web": "https://www.ulasalle.edu.pe",
+  "cover_url": "https://www.ulasalle.edu.pe/wp-content/uploads/2024/07/web_ulasalle.jpg",
+  "cover_src": "https://www.ulasalle.edu.pe",
+  "logo_url": "https://www.ulasalle.edu.pe/wp-content/uploads/2024/07/cropped-favicon_color-180x180.png",
+  "logo_src": "https://www.ulasalle.edu.pe",
+  "extras": [
+   "https://www.ulasalle.edu.pe/wp-content/uploads/2025/09/image002.png"
+  ],
+  "extras_src": "https://www.ulasalle.edu.pe"
+ },
+ {
+  "id": "3f2da2435b4681deb68bf240bf08bf4e",
+  "nombre": "Prime Coworking Space",
+  "web": "https://primecoworkspace.com/",
+  "cover_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/713983690_17898515976455144_1287119614289920371_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=MzkxMjM3OTIzMTI5NzI1MDI2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=iw5ClTmHzF8Q7kNvwHQZZ_T&_nc_oc=AdoT97bmCF8d4LwO-HSokS08dqtCvgHF7Vbwz9jMiK8njpSVKLsRBoHE_4ThEAeRulI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=FyVvqwgmPgGmoTRM5XmdjQ&_nc_ss=7a22e&oh=00_AQP9mH7T5lcjkj9H1fXXyZoHQOvNSWIF_tGf78zM4mPQKg&oe=6ACE2FE5",
+  "cover_src": "https://www.instagram.com/p/DaRF-s4FhQ2/ (Instagram oficial @primecowork.aqp, enlazado desde primecoworkspace.com)",
+  "logo_url": "https://www.google.com/s2/favicons?domain=primecoworkspace.com&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://primecoworkspace.com/"
+ },
+ {
+  "id": "3f2da2435b4681e2b00ccb65ec5a138b",
+  "nombre": "CoNexa Coworking",
+  "web": "https://conexacoworking.com/",
+  "cover_url": "https://conexacoworking.com/assets/img/campus/banner3.png",
+  "cover_src": "https://conexacoworking.com/",
+  "logo_url": "https://www.google.com/s2/favicons?domain=conexacoworking.com&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://conexacoworking.com/"
+ },
+ {
+  "id": "3f2da2435b4681e2bc03cf033b5c2511",
+  "nombre": "Mujeres en STEAM",
+  "web": "",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQG1_jtOjyW_dQ/company-logo_200_200/B4DZugUwK2KcAM-/0/1767921354314/mujeres_en_steam_logo?e=2147483647&v=beta&t=Z9dyZE8N24utU9TU8szJqVwQ0IckwzA4Mhkpc1F3JTA",
+  "logo_src": "og:image red social / gob.pe",
+  "extras": [],
+  "extras_src": ""
+ },
+ {
+  "id": "3f2da2435b4681e38d20f6797f10e372",
+  "nombre": "Gerencia Regional de CTI – GORE Arequipa",
+  "web": "https://www.gob.pe/regionarequipa",
+  "cover_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Nhw1s9IfgufeDQ6fuFDzqw&cb_client=search.gws-prod.gps&w=1920&h=1129&yaw=114.360985&pitch=0&thumbfov=100",
+  "cover_src": "Google Maps (ficha de lugar, vía Apify compass/crawler-google-places): Consejo Regional de Arequipa, C. Bolívar 206",
+  "logo_url": "https://www.gob.pe/assets/favicons/apple-icon-57x57-42e0cdf0.png",
+  "logo_src": "https://www.gob.pe/regionarequipa",
+  "extras": [
+   "https://cdn.www.gob.pe/uploads/document/file/10746127/standard_1453200-convocatoria-regional-arequipa-2027-2028.png"
+  ],
+  "extras_src": "https://www.gob.pe/regionarequipa",
+  "captura_web": "img/shots_old/04.png"
+ },
+ {
+  "id": "3f2da2435b4681f484b6e7e439b77c04",
+  "nombre": "ADN Partners",
+  "web": "https://adnpartners.com.pe",
+  "cover_url": "",
+  "cover_src": "",
+  "logo_url": "https://www.google.com/s2/favicons?domain=adnpartners.com.pe&sz=128",
+  "logo_src": "Google favicon service",
+  "extras": [],
+  "extras_src": "https://adnpartners.com.pe"
+ },
+ {
+  "id": "3f2da2435b4681fb89c2d681ca4132f4",
+  "nombre": "Laboratorio de Innovación Nodo Sur (UNSA–KOICA)",
+  "web": "https://www.unsa.edu.pe/jaku/",
+  "cover_url": "https://www.unsa.edu.pe/wp-content/uploads/2023/09/IMG_8386-scaled.jpg",
+  "cover_src": "https://www.unsa.edu.pe/unsa-y-corea-arequipa-cuenta-con-un-laboratorio-de-innovacion-para-emprendedores/",
+  "logo_url": "https://www.unsa.edu.pe/jaku/wp-content/uploads/sites/5/2018/08/jaku-logo.png",
+  "logo_src": "https://www.unsa.edu.pe/jaku/",
+  "extras": [],
+  "extras_src": "https://www.unsa.edu.pe/jaku/",
+  "captura_web": "img/shots_old/40.png"
+ }
+]
