@@ -8,6 +8,8 @@
 
 **106 actores** · **95** con foto real · cada entrada enlaza a su **fuente pública**. Créditos de imágenes en [`assets/covers/SOURCES.md`](assets/covers/SOURCES.md).
 
+Ranking por categoría en [Tier Maker](https://tiermaker.com/list/technology/ecosistema-de-innovacin-de-arequipa-19907354/6679308).
+
 ## Contenido
 
 - [🎓 Universidades](#-universidades) (6)
@@ -25,6 +27,7 @@
 - [🕸️ Redes](#-redes) (2)
 - [🚀 Startups](#-startups) (10)
 - [Datos](#datos)
+- [Ranking por categoría (Tier Maker)](https://tiermaker.com/list/technology/ecosistema-de-innovacin-de-arequipa-19907354/6679308)
 - [Contribuir](#contribuir)
 
 ## 🎓 Universidades
