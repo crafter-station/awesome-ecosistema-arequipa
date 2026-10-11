@@ -84,7 +84,8 @@ def intro_paragraph(data):
 
 
 def links_block():
-    items = " · ".join(f"[{label}]({url})" for label, url in LINKS.items())
+    # HTML anchors: GFM does not process markdown inside an inline <p>.
+    items = " · ".join(f'<a href="{url}">{label}</a>' for label, url in LINKS.items())
     return f'<p align="center">{items}</p>'
 
 
@@ -103,8 +104,11 @@ def link(x):
 
 def assert_header(text):
     assert f"# {H1}" in text, "README missing keyword H1"
-    for url in LINKS.values():
-        assert url in text, f"README missing link {url}"
+    for label, url in LINKS.items():
+        assert f'<a href="{url}">{label}</a>' in text, f"README missing HTML anchor {label}"
+    links_line = next(line for line in text.splitlines() if all(url in line for url in LINKS.values()))
+    assert links_line.startswith("<p ") and "</p>" in links_line
+    assert "](" not in links_line, "links block must not use markdown [text](url) inside HTML"
 
 
 def build_readme(data=None):

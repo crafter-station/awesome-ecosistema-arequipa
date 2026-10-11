@@ -20,7 +20,7 @@ Defined as `H1` in the generator. Keep the location keywords (Arequipa, Perú) a
 
 ## 2. Links block
 
-Immediately under the H1 (after the existing Awesome badge), render every entry of the `LINKS` dict at the top of `scripts/build_readme.py`. Do not scatter these URLs elsewhere in the script.
+Immediately under the H1 (after the existing Awesome badge), render every entry of the `LINKS` dict at the top of `scripts/build_readme.py`. Do not scatter these URLs elsewhere in the script. Use HTML anchors inside the centered `<p>` (`<a href="...">Web</a> · …`): GFM does not process markdown `[label](url)` inside an inline HTML block.
 
 | Label | Surface |
 |---|---|
