@@ -1,10 +1,12 @@
 <p align="center"><img src="assets/header-arequipa-misti.jpg" alt="Volcán Misti y Catedral de Arequipa" width="100%"></p>
 
-<h1 align="center">Awesome Ecosistema Arequipa</h1>
+# Awesome Ecosistema de Innovación y Tecnología de Arequipa, Perú
 
 <p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a></p>
 
-> Lista curada de actores del ecosistema de innovación y tecnología de **Arequipa, Perú**: universidades, institutos, incubadoras, comunidades, espacios, Estado, gremios, medios, eventos recurrentes, redes y startups destacadas.
+<p align="center">[Web](https://arequipa-sillar-connect.lovable.app) · [Guía](https://arequipa-sillar-connect.lovable.app/guia) · [Notion](https://ignacio-velasquez.notion.site/Directorio-Ecosistema-Arequipa-3f2da2435b468151bbadd79211050be0) · [Mapa PamPam](https://www.pampam.city/ecosistema-de-innovacion-de-arequipa-5cJmBIAEiXBQ0yQw4bfp) · [Ranking TierMaker](https://tiermaker.com/list/technology/ecosistema-de-innovacin-de-arequipa-19907354/6679308)</p>
+
+Directorio curado del **ecosistema de innovación** y tecnología de **Arequipa, Perú**. Reúne **106 actores** en **13 categorías** — universidades, incubadoras, comunidades tech, espacios de innovación, startups, eventos y más. Incluye **6** universidades, **11** institutos, **7** incubadoras y aceleradoras, **14** comunidades tech, **17** espacios de innovación, **10** startups y **7** eventos recurrentes, además de entidades públicas, oficinas universitarias de innovación, fundaciones, gremios, medios y redes. **95** entradas tienen foto real; cada ficha enlaza a su fuente pública.
 
 **106 actores** · **95** con foto real · cada entrada enlaza a su **fuente pública**. Créditos de imágenes en [`assets/covers/SOURCES.md`](assets/covers/SOURCES.md).
 
